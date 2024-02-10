@@ -1,0 +1,19 @@
+Web design and development has become a very critical aspect in online 
+activities due to advancement in online technology and innovation. By the 
+end of 2020, it was approximated that there are nearly 1.7 billion websites 
+present online. These include corporate, e-commerce, portals, blogs, social 
+media and other websites. Website is one of the ICT tools that fosters success 
+on the online activities in this digital age. In this chapter, you will learn 
+about the concept, structure and design of the webpage. The competencies 
+developed in this chapter will equip you with the ability to develop websites.
+A webpage is a document commonly written in Hyper Text Mark-up Language 
+(HTML) that is accessible through the Internet or other networks using a web 
+browser.A website 
+refers to a collection of related multiple webpages that is addressed to a Uniform 
+Resource Locator (URL) or domain name such as www.moe.go.tz.
+In order to view and publish the website you need to have a web browser.A web browser is an application software for accessing information on the World 
+Wide Web. There are commonly used browsers to connect the website to the World 
+Wide Web such as Mozilla Firefox, Google chrome, Safari, Opera and Microsoft 
+edge as shown in Figure
+
+Figure : Commonly used web browsers
